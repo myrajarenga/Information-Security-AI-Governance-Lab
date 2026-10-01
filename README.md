@@ -210,3 +210,5 @@ My name is Myra Jarenga.
 I am building my career across cybersecurity, information security, AI governance, and software security.
 
 I created this project to demonstrate that I can take a security problem, break it down, assess the risks, document the findings, and translate those findings into practical security controls.
+
+Wtch this leaa than 3 min short video on how this was being done practically here https://youtu.be/FndKiZV-PNQ?si=u6nPxcWWLSH_mMuA 
